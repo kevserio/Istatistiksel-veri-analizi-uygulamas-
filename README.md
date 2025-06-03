@@ -1,2 +1,2 @@
-# -statistiksel-veri-analizi-uygulamas-
+# ıstatistiksel-veri-analizi-uygulamas-
 Proje-Ödevi
